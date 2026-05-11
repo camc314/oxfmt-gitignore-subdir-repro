@@ -1,4 +1,7 @@
+# UPDATE: Fixed in https://github.com/oxc-project/oxc/pull/22210
+
 # oxfmt gitignore subdirectory repro
+
 
 This repository demonstrates that `oxfmt` formats directories that are ignored by parent `.gitignore` files when the ignored directory is passed as the walk target.
 
